@@ -1,0 +1,98 @@
+a {
+}
+
+a {
+}
+
+#navbar {
+  background: blue;
+}
+
+body {
+}
+
+#navbar:hover {
+  background: darkred;
+}
+
+#flechas {
+  background-color: navy;
+}
+
+span {
+  background-color: darkred;
+}
+
+#flechas:hover {
+  background: darkred;
+}
+
+span {
+  background: navy;
+}
+
+#navbar {
+}
+
+span:hover {
+  background: darkred;
+}
+
+.btn {
+}
+
+.btn:hover {
+  background: navy;
+}
+
+.btn {
+  background: red;
+}
+
+.btn {
+  background: darkgoldenrod;
+}
+
+.btn:hover {
+  background: navy;
+}
+
+.card-body {
+  background: teal;
+}
+
+.card-body {
+  background: navy;
+}
+
+.card-body:hover {
+  background: darkred;
+}
+
+.btn {
+}
+
+#boton-uno {
+  background: indigo;
+}
+
+#boton-uno:hover {
+  background: navy;
+}
+
+#boton-dos {
+  background: indigo;
+}
+
+#boton-dos:hover {
+  background: navy;
+}
+
+#boton-tres {
+  background: indigo;
+}
+
+#boton-tres:hover {
+  background: navy;
+}
+
